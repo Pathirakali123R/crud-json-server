@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Pathirakali123R/crud-json-server#readme",
   "dependencies": {
-    "json-server": "^1.0.0-beta.5"
+"json-server": "^0.17.4"
   }
 }
